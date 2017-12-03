@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UITestDemoTests/UITestDemoTests.m"
+            timestampString = "534000098.537224"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-testExample"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UITestDemoTests testExample]"
+                  moduleName = "UITestDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisisi/Desktop/UITestDemo/UITestDemoTests/UITestDemoTests.m"
+                  timestampString = "534000100.169044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UITestDemoTests testExample]"
+                  moduleName = "UITestDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisisi/Desktop/UITestDemo/UITestDemoTests/UITestDemoTests.m"
+                  timestampString = "534000100.177562"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UITestDemoTests testExample]"
+                  moduleName = "UITestDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisisi/Desktop/UITestDemo/UITestDemoTests/UITestDemoTests.m"
+                  timestampString = "534000100.184883"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "865">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UITestDemoTests testExample]"
+                  moduleName = "UITestDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisisi/Desktop/UITestDemo/UITestDemoTests/UITestDemoTests.m"
+                  timestampString = "534000100.188444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "921">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UITestDemoTests testExample]"
+                  moduleName = "UITestDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lisisi/Desktop/UITestDemo/UITestDemoTests/UITestDemoTests.m"
+                  timestampString = "534000100.191571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1030">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
