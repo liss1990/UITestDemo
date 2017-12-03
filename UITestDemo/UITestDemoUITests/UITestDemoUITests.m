@@ -30,7 +30,6 @@
 
 - (void)tearDown {
     // Put teardown code here. This method is called after the invocation of each test method in the class.
-
     [super tearDown];
     
 }
@@ -42,14 +41,11 @@
     XCUIElement *usernameTextField = app/*@START_MENU_TOKEN@*/.textFields[@"username"]/*[[".textFields[@\"\\U8d26\\U53f7\"]",".textFields[@\"username\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/;
     [usernameTextField tap];
     [usernameTextField typeText:@"3333"];
-    
     XCUIElement *pwdTextField = app/*@START_MENU_TOKEN@*/.textFields[@"pwd"]/*[[".textFields[@\"\\U5bc6\\U7801\"]",".textFields[@\"pwd\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/;
     [pwdTextField tap];
     [pwdTextField typeText:@"4"];
     [pwdTextField tap];
     [pwdTextField typeText:@"444"];
-    
-    
     [app/*@START_MENU_TOKEN@*/.buttons[@"loginBtn"]/*[[".buttons[@\"Button\"]",".buttons[@\"loginBtn\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/ tap];
     [app.navigationBars[@"UIView"].buttons[@"Back"] tap];
     

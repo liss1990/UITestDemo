@@ -15,7 +15,7 @@
 @implementation ViewController
 -(int)textDemo{
     
-    return 1222;
+    return 100;
 }
 
 - (void)viewDidLoad {
